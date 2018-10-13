@@ -3,10 +3,8 @@
 # Table of Contents
 
 * [Overview](#overview)
-* [Specification](#Specification)
 * [How to run the project](#how-to-run-the-project)
 * [Credits & Tools Used](#credits-&-tools-used)
-* [Screenshot](#screenshot)
 * [License](#license)
 
 
