@@ -37,17 +37,6 @@ and follow the instructions below:
 for mobile-friendly interactive maps, & [**Mapbox**](https://www.mapbox.com/), an open source mapping platform for custom designed maps.
 * [**Normalize.css**](https://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
 
-
-
-## Screenshot
-
-![Screenshot1](/img/Screenshot.PNG "Screenshot")
-
-
 ## License
 
 [MIT] License.
-
-
-
----
