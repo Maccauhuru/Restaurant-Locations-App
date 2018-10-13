@@ -1,4 +1,3 @@
-console.log("registered");
 const cacheFiles = [
     '/',
     '/index.html',
